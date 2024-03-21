@@ -128,9 +128,6 @@ def measure_merits(data, radius, boxsize, smooth_radius, center, convert = False
     of (1) photutils.centroids.centroid_quadratic, (2) photutils.CircularAperture, (3) photutils.aperture_photometry,
     and (4) photutils.ApertureStats
 
-    NOTE: testing (16 Jan 2024) centroid, FWHM, aperture phtometry values, the aperture photometry failed to measure at
-    433-iterations
-
         Parameters
     -----------------------
     data:           np.array
