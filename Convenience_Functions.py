@@ -44,7 +44,7 @@ from astropy.modeling import fitting, models
 from photutils.detection import DAOStarFinder
 from numpy.fft import fftn, ifftn, fftshift
 from photutils.aperture import ApertureStats, EllipticalAperture
-from astropy.wcs import WCS, AstropyUserWarning
+from astropy.wcs import WCS
 import skimage
 import numpy as np
 import scipy.optimize as opt
