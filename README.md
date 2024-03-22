@@ -16,10 +16,10 @@ Lucy 1974 <br>
 XXX et al. 2014? <br>
 First introduced in the 2014 Grand Challenge on Deconvolution: [code link](https://bigwww.epfl.ch/deconvolution/challenge2013/index.html?p=doc_math_rl)
 
-**Adaptive Imaging Deconvolution Algorithm (AIDA)**: [source code](https://github.com/erikhom/aida) <br>
+**Adaptive Imaging Deconvolution Algorithm (AIDA)**: Code developed by XXX ([source code](https://github.com/erikhom/aida)) <br>
 Hom et al. 2007
 
-**Sparse regularization with the Condat-Vu (SCV) algorithm:** [source code](https://github.com/CEA-COSMIC/pysap-astro) <br>
+**Sparse regularization with the Condat-Vu (SCV) algorithm:** Code developed by XXX ([source code](https://github.com/CEA-COSMIC/pysap-astro)) <br>
 Farrens et al. 2017
 
 **Iterative Weiner Filtering and Thresholding (IWFT)**: Contact author for permission to use code (email: [sroubekf@utia.cas.cz](sroubekf@utia.cas.cz)) <br>
