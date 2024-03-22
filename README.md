@@ -7,10 +7,10 @@ Applications of different deconvolution algorithms to a simulated toy AGN model 
 
 This process is repeatable for the other deconvolution algorithms used in Leist et al. 2024. We encourage any interested party to read the algorithms seminal papers, download the relevant source code, and try for themselves.
 
-**Kraken**: Contact author for permission to use code (give Doug's email) <br>
+**Kraken:**: Contact author for permission to use code (give Doug's email) <br>
         [Hope, D. A., Jefferies, S. M., Causi, G. L., et al. 2022, ApJ, 926, 88](https://iopscience.iop.org/article/10.3847/1538-4357/ac2df3)
         
-[non-circulant Richardson-Lucy](https://github.com/clij/clij2-fft) (Codes developer: Brian Northan) <br>
+**non-circulant Richardson-Lucy:** Code developed by Brian Northan ([source code](https://github.com/clij/clij2-fft)) <br>
 Richardson 1972 <br>
 Lucy 1974 <br>
 XXX et al. 2014? <br>
