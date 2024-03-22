@@ -13,7 +13,7 @@ This process is repeatable for the other deconvolution algorithms used in Leist 
 **non-circulant Richardson-Lucy:** Code developed by Brian Northan ([source code](https://github.com/clij/clij2-fft)) <br>
 [Richardson, W. H. 1972, JOSA, 62, 55](https://opg.optica.org/josa/fulltext.cfm?uri=josa-62-1-55&id=54565) <br>
 [Lucy, L. B. 1974, AJ, 79, 745](https://ui.adsabs.harvard.edu/abs/1974AJ.....79..745L/abstract) <br>
-[Ingaramo, M. C., York, A. G., Hoogendoorn, E., et al. 2014, ChemPhysChem, 15, 794] (https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201300831) <br>
+[Ingaramo, M. C., York, A. G., Hoogendoorn, E., et al. 2014, ChemPhysChem, 15, 794](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201300831) <br>
 First introduced in the [2014 Grand Challenge on Deconvolution](https://bigwww.epfl.ch/deconvolution/challenge2013/index.html?p=doc_math_rl)
 
 **Adaptive Imaging Deconvolution Algorithm (AIDA)**: Code developed by Erik Hom ([source code](https://github.com/erikhom/aida)) <br>
