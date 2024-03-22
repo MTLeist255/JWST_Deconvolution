@@ -11,7 +11,7 @@ Kraken: Contact author for permission to use code (give Doug's email)
         [Hope, D. A., Jefferies, S. M., Causi, G. L., et al. 2022, ApJ, 926, 88](https://iopscience.iop.org/article/10.3847/1538-4357/ac2df3)
         
 [non-circulant Richardson-Lucy](https://github.com/clij/clij2-fft) (Codes developer: Brian Northan)
-\nRichardson 1972
+Richardson 1972
                  Lucy 1974
                  XXX et al. 2014?
                  First introduced in the 2014 Grand Challenge on Deconvolution: [code link](https://bigwww.epfl.ch/deconvolution/challenge2013/index.html?p=doc_math_rl)
