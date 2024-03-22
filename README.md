@@ -10,7 +10,7 @@ This process is repeatable for the other deconvolution algorithms used in Leist 
 Kraken: Contact author for permission to use code (give Doug's email)
         [Hope, D. A., Jefferies, S. M., Causi, G. L., et al. 2022, ApJ, 926, 88](https://iopscience.iop.org/article/10.3847/1538-4357/ac2df3)
         
-[non-circulant Richardson-Lucy](https://github.com/clij/clij2-fft) (Codes developer: Brian Northan)
+[non-circulant Richardson-Lucy](https://github.com/clij/clij2-fft) (Codes developer: Brian Northan). 
 Richardson 1972
                  Lucy 1974
                  XXX et al. 2014?
