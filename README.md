@@ -7,7 +7,7 @@ Applications of different deconvolution algorithms to a simulated toy AGN model 
 
 This process is repeatable for the other deconvolution algorithms used in Leist et al. 2024. We encourage any interested party to read the algorithms seminal papers, download the relevant source code, and try for themselves.
 
-**Kraken:**: Contact author for permission to use code (email: [douglas.hope@protonmail.com](douglas.hope@protonmail.com)) <br>
+**Kraken:** Contact author for permission to use code (email: [douglas.hope@protonmail.com](douglas.hope@protonmail.com)) <br>
         [Hope, D. A., Jefferies, S. M., Causi, G. L., et al. 2022, ApJ, 926, 88](https://iopscience.iop.org/article/10.3847/1538-4357/ac2df3)
         
 **non-circulant Richardson-Lucy:** Code developed by Brian Northan ([source code](https://github.com/clij/clij2-fft)) <br>
@@ -26,7 +26,7 @@ First introduced in the [2014 Grand Challenge on Deconvolution](https://bigwww.e
 [Šroubek, F., Kerepecký, T., & Kamenický, J. 2019, in 2019 27th European Signal Processing Conf. (EUSIPCO) (New York: IEEE), 1](https://ieeexplore.ieee.org/document/8903114)
 
 # Installation
-To run the Jupyter notebook we recommend installing Conda then creating a Condo environment with Python 3.9:
+To run the Jupyter notebook we recommend installing Conda then creating a Conda environment with Python 3.9:
 
 Conda create -n JWST_deconvolution python=3.9 <br>
 Conda activate JWST_deconvolution
@@ -50,6 +50,3 @@ If you use this code for a scientific publication, please cite the following art
  
 # Licensing
 Licensed under MIT license.
-
-# Additional Scripts
-(22 Mar. 2024: list and outline what each additional script does here)
