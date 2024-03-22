@@ -8,18 +8,18 @@ Applications of different deconvolution algorithms to a simulated toy AGN model 
 This process is repeatable for the other deconvolution algorithms used in Leist et al. 2024. We encourage any interested party to read the algorithms seminal papers, download the relevant source code, and try for themselves.
 
 Kraken: Contact author for permission to use code (give Doug's email)
-        [code link][Hope, D. A., Jefferies, S. M., Causi, G. L., et al. 2022, ApJ, 926, 88](https://iopscience.iop.org/article/10.3847/1538-4357/ac2df3)
+        [Hope, D. A., Jefferies, S. M., Causi, G. L., et al. 2022, ApJ, 926, 88](https://iopscience.iop.org/article/10.3847/1538-4357/ac2df3)
         
-non-circulant Richardson-Lucy: [code link](https://github.com/clij/clij2-fft) (Codes developer: Brian Northan)
+[non-circulant Richardson-Lucy](https://github.com/clij/clij2-fft) (Codes developer: Brian Northan)
                  Richardson 1972
                  Lucy 1974
                  XXX et al. 2014?
                  First introduced in the 2014 Grand Challenge on Deconvolution: [code link](https://bigwww.epfl.ch/deconvolution/challenge2013/index.html?p=doc_math_rl)
 
-XXX (AIDA): [code link](https://github.com/erikhom/aida)
+[Adaptive Imaging Deconvolution Algorithm (AIDA)](https://github.com/erikhom/aida)
             Hom et al. 2007
 
-Sparse regularization with the Condat-Vu (SCV) algorithm: [code link](https://github.com/CEA-COSMIC/pysap-astro)
+[Sparse regularization with the Condat-Vu (SCV) algorithm](https://github.com/CEA-COSMIC/pysap-astro)
                                                           Farrens et al. 2017
 
 Iterative Weiner Filtering and Thresholding (IWFT): Contact author for permission to use code (give XXX email)
